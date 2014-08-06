@@ -21,7 +21,7 @@ lb{
         ada{"Adangme"}
         ady{"Adygéiesch"}
         ae{"Avestesch"}
-        aeb{"Tunesescht Arabesch"}
+        aeb{"Tuneesescht Arabesch"}
         af{"Afrikaans"}
         afh{"Afrihili"}
         agq{"Aghem"}
@@ -33,7 +33,7 @@ lb{
         aln{"Gegesch"}
         alt{"Süd-Alaesch"}
         am{"Amharesch"}
-        an{"Aragonesesch"}
+        an{"Aragoneesesch"}
         ang{"Alenglesch"}
         anp{"Angika"}
         ar{"Arabesch"}
@@ -46,7 +46,7 @@ lb{
         arw{"Arawak-Sprooch"}
         ary{"Marokkanescht Arabesch"}
         arz{"Egyptescht Arabesch"}
-        as{"Assamesesch"}
+        as{"Assameesesch"}
         asa{"Asu (Tanzania)"}
         ase{"Amerikanesch Zeechesprooch"}
         ast{"Asturianesch"}
@@ -58,7 +58,7 @@ lb{
         azb{"Süd-Aserbaidschanesch"}
         ba{"Baschkiresch"}
         bal{"Belutschesch"}
-        ban{"Balinesesch"}
+        ban{"Balineesesch"}
         bar{"Bairesch"}
         bas{"Basaa-Sprooch"}
         bax{"Bamun"}
@@ -76,7 +76,7 @@ lb{
         bi{"Bislama"}
         bik{"Bikol-Sprooch"}
         bin{"Bini-Sprooch"}
-        bjn{"Banjaresesch"}
+        bjn{"Banjareesesch"}
         bkm{"Kom"}
         bla{"Blackfoot-Sprooch"}
         bm{"Bambara-Sprooch"}
@@ -91,7 +91,7 @@ lb{
         bs{"Bosnesch"}
         bss{"Akoose"}
         bua{"Burjatesch"}
-        bug{"Buginesesch"}
+        bug{"Bugineesesch"}
         bum{"Bulu"}
         byn{"Blin"}
         byv{"Medumba"}
@@ -106,7 +106,7 @@ lb{
         ch{"Chamorro-Sprooch"}
         chb{"Chibcha-Sprooch"}
         chg{"Tschagataesch"}
-        chk{"Trukesesch"}
+        chk{"Trukeesesch"}
         chm{"Mari"}
         chn{"Chinook"}
         cho{"Choctaw"}
@@ -130,7 +130,7 @@ lb{
         dav{"Taita"}
         de{"Däitsch"}
         de_AT{"Éisträichescht Däitsch"}
-        de_CH{"Schwäizer Héichdäitsch"}
+        de_CH{"Schwäizer Houdäitsch"}
         del{"Delaware-Sprooch"}
         den{"Slave"}
         dgr{"Dogrib"}
@@ -200,18 +200,18 @@ lb{
         ga{"Iresch"}
         gaa{"Ga-Sprooch"}
         gag{"Gagausesch"}
-        gan{"Gan-Chinesesch"}
+        gan{"Gan-Chineesesch"}
         gay{"Gayo"}
         gba{"Gbaya-Sprooch"}
         gbz{"Zoroastrianescht Dari"}
         gd{"Schottescht Gällesch"}
         gez{"Geez"}
-        gil{"Gilbertesesch"}
+        gil{"Gilberteesesch"}
         gl{"Galizesch"}
         glk{"Gilaki"}
-        gmh{"Mëttelhéichdäitsch"}
+        gmh{"Mëttelhoudäitsch"}
         gn{"Guarani"}
-        goh{"Alhéichdäitsch"}
+        goh{"Alhoudäitsch"}
         gom{"Goan-Konkani"}
         gon{"Gondi-Sprooch"}
         gor{"Mongondou"}
@@ -227,7 +227,7 @@ lb{
         gwi{"Kutchin-Sprooch"}
         ha{"Hausa"}
         hai{"Haida-Sprooch"}
-        hak{"Hakka-Chinesesch"}
+        hak{"Hakka-Chineesesch"}
         haw{"Hawaiesch"}
         he{"Hebräesch"}
         hi{"Hindi"}
@@ -238,7 +238,7 @@ lb{
         ho{"Hiri-Motu"}
         hr{"Kroatesch"}
         hsb{"Uewersorbesch"}
-        hsn{"Xiang-Chinesesch"}
+        hsn{"Xiang-Chineesesch"}
         ht{"Haitianesch"}
         hu{"Ungaresch"}
         hup{"Hupa"}
@@ -247,7 +247,7 @@ lb{
         ia{"Interlingua"}
         iba{"Iban"}
         ibb{"Ibibio"}
-        id{"Indonesesch"}
+        id{"Indoneesesch"}
         ie{"Interlingue"}
         ig{"Igbo-Sprooch"}
         ii{"Sichuan Yi"}
@@ -282,7 +282,7 @@ lb{
         kea{"Kabuverdianu"}
         ken{"Kenyang"}
         kfo{"Koro"}
-        kg{"Kongolesesch"}
+        kg{"Kongoleesesch"}
         kgp{"Kaingang"}
         kha{"Khasi-Sprooch"}
         kho{"Sakesch"}
@@ -347,9 +347,9 @@ lb{
         lus{"Lushai-Sprooch"}
         luy{"Olulujia"}
         lv{"Lettesch"}
-        lzh{"Klassescht Chinesesch"}
+        lzh{"Klassescht Chineesesch"}
         lzz{"Lasesch Sprooch"}
-        mad{"Maduresesch"}
+        mad{"Madureesesch"}
         maf{"Mafa"}
         mag{"Khotta"}
         mai{"Maithili"}
@@ -358,7 +358,7 @@ lb{
         mas{"Massai-Sprooch"}
         mde{"Maba"}
         mdf{"Moksha"}
-        mdr{"Mandaresesch"}
+        mdr{"Mandareesesch"}
         men{"Mende-Sprooch"}
         mer{"Meru-Sprooch"}
         mfe{"Morisyen"}
@@ -366,7 +366,7 @@ lb{
         mga{"Mëtteliresch"}
         mgh{"Makhuwa-Meetto"}
         mgo{"Meta'"}
-        mh{"Marschallesesch"}
+        mh{"Marschalleesesch"}
         mi{"Maori"}
         mic{"Micmac-Sprooch"}
         min{"Minangkabau-Sprooch"}
@@ -380,11 +380,11 @@ lb{
         mr{"Marathi"}
         mrj{"West-Mari"}
         ms{"Malaiesch"}
-        mt{"Maltesesch"}
+        mt{"Malteesesch"}
         mua{"Mundang"}
         mul{"Méisproocheg"}
         mus{"Muskogee-Sprooch"}
-        mwl{"Mirandesesch"}
+        mwl{"Mirandeesesch"}
         mwr{"Marwari"}
         mwv{"Mentawai"}
         my{"Birmanesch"}
@@ -392,13 +392,13 @@ lb{
         myv{"Ersja-Mordwinesch"}
         mzn{"Mazandarani"}
         na{"Nauruesch"}
-        nan{"Min-Nan-Chinesesch"}
+        nan{"Min-Nan-Chineesesch"}
         nap{"Neapolitanesch"}
         naq{"Nama"}
-        nb{"Norwegesch Bokmål"}
+        nb{"Norweegesch Bokmål"}
         nd{"Nord-Ndebele-Sprooch"}
         nds{"Nidderdäitsch"}
-        ne{"Nepalesesch"}
+        ne{"Nepaleesesch"}
         new{"Newari"}
         ng{"Ndonga"}
         nia{"Nias-Sprooch"}
@@ -407,9 +407,9 @@ lb{
         nl{"Hollännesch"}
         nl_BE{"Flämesch"}
         nmg{"Kwasio"}
-        nn{"Norwegesch Nynorsk"}
+        nn{"Norweegesch Nynorsk"}
         nnh{"Ngiemboon"}
-        no{"Norwegesch"}
+        no{"Norweegesch"}
         nog{"Nogai"}
         non{"Alnordesch"}
         nov{"Novial"}
@@ -445,7 +445,7 @@ lb{
         phn{"Phönikesch"}
         pi{"Pali"}
         pl{"Polnesch"}
-        pms{"Piemontesesch"}
+        pms{"Piemonteesesch"}
         pnt{"Pontesch"}
         pon{"Ponapeanesch"}
         prg{"Preisesch"}
@@ -490,7 +490,7 @@ lb{
         scn{"Sizilianesch"}
         sco{"Schottesch"}
         sd{"Sindhi"}
-        sdc{"Sassaresesch"}
+        sdc{"Sassareesesch"}
         se{"Nordsamesch"}
         see{"Seneca"}
         seh{"Sena"}
@@ -504,11 +504,11 @@ lb{
         shi{"Taschelhit"}
         shn{"Schan-Sprooch"}
         shu{"Tschadesch-Arabesch"}
-        si{"Singhalesesch"}
+        si{"Singhaleesesch"}
         sid{"Sidamo"}
         sk{"Slowakesch"}
         sl{"Slowenesch"}
-        sli{"Nidderschlesesch"}
+        sli{"Nidderschleesesch"}
         sly{"Selayar"}
         sm{"Samoanesch"}
         sma{"Südsamesch"}
@@ -527,7 +527,7 @@ lb{
         ssy{"Saho"}
         st{"Süd-Sotho-Sprooch"}
         stq{"Saterfriesesch"}
-        su{"Sundanesesch"}
+        su{"Sundaneesesch"}
         suk{"Sukuma-Sprooch"}
         sus{"Susu"}
         sux{"Sumeresch"}
@@ -537,7 +537,7 @@ lb{
         swc{"Kongo-Swahili"}
         syc{"Alsyresch"}
         syr{"Syresch"}
-        szl{"Schlesesch"}
+        szl{"Schleesesch"}
         ta{"Tamilesch"}
         tcy{"Tulu"}
         te{"Telugu"}
@@ -561,7 +561,7 @@ lb{
         tn{"Tswana-Sprooch"}
         to{"Tongaesch"}
         tog{"Tsonga-Sprooch"}
-        tpi{"Neimelanesesch"}
+        tpi{"Neimelaneesesch"}
         tr{"Tierkesch"}
         tru{"Turoyo"}
         trv{"Seediq"}
@@ -589,7 +589,7 @@ lb{
         ve{"Venda-Sprooch"}
         vec{"Venezesch"}
         vep{"Wepsesch"}
-        vi{"Vietnamesesch"}
+        vi{"Vietnameesesch"}
         vls{"Westflämesch"}
         vmf{"Mainfränkesch"}
         vo{"Volapük"}
@@ -602,28 +602,28 @@ lb{
         war{"Waray"}
         was{"Washo-Sprooch"}
         wo{"Wolof"}
-        wuu{"Wu-Chinesesch"}
+        wuu{"Wu-Chineesesch"}
         xal{"Kalmückesch"}
         xh{"Xhosa"}
         xmf{"Mingrelesch Sprooch"}
         xog{"Soga"}
         yao{"Yao-Sprooch"}
-        yap{"Yapesesch"}
+        yap{"Yapeesesch"}
         yav{"Yangben"}
         ybb{"Yemba"}
         yi{"Jiddesch"}
         yo{"Yoruba"}
         yrl{"Nheengatu"}
-        yue{"Kantonesesch"}
+        yue{"Kantoneesesch"}
         za{"Zhuang"}
         zap{"Zapotekesch"}
         zbl{"Bliss-Symboler"}
         zea{"Seelännesch"}
         zen{"Zenaga"}
         zgh{"Marokkanescht Standard-Tamazight"}
-        zh{"Chinesesch"}
-        zh_Hans{"Chinesesch (vereinfacht)"}
-        zh_Hant{"Chinesesch (traditionell)"}
+        zh{"Chineesesch"}
+        zh_Hans{"Chineesesch (vereinfacht)"}
+        zh_Hant{"Chineesesch (traditionell)"}
         zu{"Zulu"}
         zun{"Zuni-Sprooch"}
         zxx{"Keng Sproochinhalter"}
@@ -634,14 +634,14 @@ lb{
         Armi{"Armi"}
         Armn{"Armenesch"}
         Avst{"Avestesch"}
-        Bali{"Balinesesch"}
+        Bali{"Balineesesch"}
         Batk{"Battakesch"}
         Beng{"Bengalesch"}
         Blis{"Bliss-Symboler"}
         Bopo{"Bopomofo"}
         Brah{"Brahmi"}
         Brai{"Blanneschrëft"}
-        Bugi{"Buginesesch"}
+        Bugi{"Bugineesesch"}
         Buhd{"Buhid"}
         Cans{"UCAS"}
         Cari{"Karesch"}
@@ -666,15 +666,15 @@ lb{
         Gujr{"Gujarati"}
         Guru{"Gurmukhi"}
         Hang{"Hangul"}
-        Hani{"Chinesesch"}
+        Hani{"Chineesesch"}
         Hano{"Hanunoo"}
         Hans{
             "Vereinfacht",
-            "Vereinfacht Chinesesch",
+            "Vereinfacht Chineesesch",
         }
         Hant{
             "Traditionell",
-            "Traditionellt Chinesesch",
+            "Traditionellt Chineesesch",
         }
         Hebr{"Hebräesch"}
         Hira{"Hiragana"}
@@ -683,7 +683,7 @@ lb{
         Hung{"Alungaresch"}
         Inds{"Indus-Schrëft"}
         Ital{"Alitalesch"}
-        Java{"Javanesesch"}
+        Java{"Javaneesesch"}
         Jpan{"Japanesch"}
         Kali{"Kayah Li"}
         Kana{"Katakana"}
@@ -730,8 +730,8 @@ lb{
         Saur{"Saurashtra"}
         Sgnw{"Zeechesprooch"}
         Shaw{"Shaw-Alphabet"}
-        Sinh{"Singhalesesch"}
-        Sund{"Sundanesesch"}
+        Sinh{"Singhaleesesch"}
+        Sund{"Sundaneesesch"}
         Sylo{"Syloti Nagri"}
         Syrc{"Syresch"}
         Syre{"Syresch-Estrangelo-Variant"}
@@ -762,7 +762,7 @@ lb{
     Types{
         calendar{
             buddhist{"Buddhistesche Kalenner"}
-            chinese{"Chinesesche Kalenner"}
+            chinese{"Chineesesche Kalenner"}
             coptic{"Koptesche Kalenner"}
             dangi{"Dangi-Kalenner"}
             ethiopic{"Ethiopesche Kalenner"}
@@ -778,11 +778,11 @@ lb{
             roc{"Kalenner vun der Republik China"}
         }
         collation{
-            big5han{"Traditionellt Chinesesch - Big5"}
+            big5han{"Traditionellt Chineesesch - Big5"}
             dictionary{"Lexikographesch Zortéierreiefolleg"}
             ducet{"Unicode-Zortéierung"}
             eor{"Europäesch Zortéierregelen"}
-            gb2312han{"Vereinfacht Chinesesch - GB2312"}
+            gb2312han{"Vereinfacht Chineesesch - GB2312"}
             phonebook{"Telefonsbuch-Zortéierung"}
             pinyin{"Pinyin-Zortéierregelen"}
             reformed{"Reforméiert Zortéierreiefolleg"}
@@ -808,11 +808,11 @@ lb{
             greklow{"Griichesch Zifferen a Klengschrëft"}
             gujr{"Gujarati-Zifferen"}
             guru{"Gurmukhi-Zifferen"}
-            hanidec{"Chinesesch Dezimalzuelen"}
-            hans{"Vereinfacht-Chinesesch Zifferen"}
-            hansfin{"Vereinfacht-Chinesesch Finanzzifferen"}
-            hant{"Traditionell-Chinesesch Zifferen"}
-            hantfin{"Traditionell-Chinesesch Finanzzifferen"}
+            hanidec{"Chineesesch Dezimalzuelen"}
+            hans{"Vereinfacht-Chineesesch Zifferen"}
+            hansfin{"Vereinfacht-Chineesesch Finanzzifferen"}
+            hant{"Traditionell-Chineesesch Zifferen"}
+            hantfin{"Traditionell-Chineesesch Finanzzifferen"}
             hebr{"Hebräesch Zifferen"}
             jpan{"Japanesch Zifferen"}
             jpanfin{"Japanesch Finanzzifferen"}

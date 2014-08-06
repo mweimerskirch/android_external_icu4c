@@ -500,9 +500,9 @@ lb{
             ls{"Chilenesch Normalzäit"}
         }
         "meta:China"{
-            ld{"Chinesesch Summerzäit"}
-            lg{"Chinesesch Zäit"}
-            ls{"Chinesesch Normalzäit"}
+            ld{"Chineesesch Summerzäit"}
+            lg{"Chineesesch Zäit"}
+            ls{"Chineesesch Normalzäit"}
         }
         "meta:Choibalsan"{
             ld{"Choibalsan-Summerzäit"}
@@ -639,13 +639,13 @@ lb{
             ls{"Indochina-Zäit"}
         }
         "meta:Indonesia_Central"{
-            ls{"Zentralindonesesch Zäit"}
+            ls{"Zentralindoneesesch Zäit"}
         }
         "meta:Indonesia_Eastern"{
-            ls{"Ostindonesesch Zäit"}
+            ls{"Ostindoneesesch Zäit"}
         }
         "meta:Indonesia_Western"{
-            ls{"Westindonesesch Zäit"}
+            ls{"Westindoneesesch Zäit"}
         }
         "meta:Iran"{
             ld{"Iranesch Summerzäit"}
@@ -757,7 +757,7 @@ lb{
             ls{"Nauru-Zäit"}
         }
         "meta:Nepal"{
-            ls{"Nepalesesch Zäit"}
+            ls{"Nepaleesesch Zäit"}
         }
         "meta:New_Caledonia"{
             ld{"Neikaledonesch Summerzäit"}

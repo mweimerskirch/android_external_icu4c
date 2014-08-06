@@ -28,7 +28,7 @@ lb{
         039{"Südeuropa"}
         053{"Australien an Neiséiland"}
         054{"Melanesien"}
-        057{"Mikronesescht Inselgebitt"}
+        057{"Mikroneesescht Inselgebitt"}
         061{"Polynesien"}
         142{"Asien"}
         143{"Zentralasien"}
@@ -234,7 +234,7 @@ lb{
         NG{"Nigeria"}
         NI{"Nicaragua"}
         NL{"Holland"}
-        NO{"Norwegen"}
+        NO{"Norweegen"}
         NP{"Nepal"}
         NR{"Nauru"}
         NU{"Niue"}
